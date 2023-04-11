@@ -1,5 +1,4 @@
 import java.util.*;
-
 /**
  * ramazan
  * Write code to filter duplicate elements from an array and print as a list?
